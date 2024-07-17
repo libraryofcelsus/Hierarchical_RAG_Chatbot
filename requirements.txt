@@ -1,0 +1,11 @@
+aiosignal
+aiofiles
+aiohttp
+openai
+numpy<2.0.0
+marqo
+keyboard
+kivy
+requests
+qdrant-client==1.9.1
+sentence-transformers
